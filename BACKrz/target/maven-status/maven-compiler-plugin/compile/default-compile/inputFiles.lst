@@ -1,44 +1,44 @@
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Repository\IPersonaRepository.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Dto\JwtDto.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Controller\PersonaController.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Repository\RProyectos.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Service\SExperiencia.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Service\Sproyectos.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Repository\Rhys.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Service\ImpPersonaService.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Entity\hys.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Entity\Rol.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Dto\LoginUsuario.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\jwt\JwtTokenFilter.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Entity\Educacion.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Service\UsuarioService.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\jwt\JwtProvider.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Repository\iRolRepository.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Service\Seducacion.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Entity\Usuario.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Controller\Mensaje.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Entity\Proyectos.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Service\UserDetailsImpl.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Controller\CExperiencia.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Entity\Experiencia.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\jwt\JwtEntryPoint.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\RzApplication.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Repository\REducacion.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Controller\AuthController.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Repository\RExperiencia.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\MainSecurity.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Dto\dtoProyectos.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Controller\CEducacion.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Dto\NuevoUsuario.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Service\Shys.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Dto\dtoEducacion.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Controller\CProyectos.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Entity\Persona.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Entity\UsuarioPrincipal.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Enums\RolNombre.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Service\RolService.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Controller\CHys.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Dto\dtoExperiencia.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Dto\dtoPersona.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Dto\dtoHys.java
-C:\Users\CHIZZO\Desktop\BACKENDRZ\BACKrz\src\main\java\com\portfolio\rz\Security\Repository\iUsuarioRepository.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\jwt\JwtEntryPoint.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Repository\iRolRepository.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Entity\UsuarioPrincipal.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Dto\dtoHys.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Repository\Rhys.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Dto\LoginUsuario.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Service\SExperiencia.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Controller\CExperiencia.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\jwt\JwtProvider.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Entity\Experiencia.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Entity\Proyectos.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Dto\NuevoUsuario.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Dto\dtoExperiencia.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Enums\RolNombre.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Controller\Mensaje.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Controller\CHys.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Controller\CProyectos.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\RzApplication.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Entity\Rol.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\jwt\JwtTokenFilter.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Controller\PersonaController.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Entity\hys.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Service\Shys.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Dto\JwtDto.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Repository\RProyectos.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Controller\AuthController.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Service\RolService.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Entity\Persona.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Service\Seducacion.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Service\ImpPersonaService.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\MainSecurity.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Dto\dtoPersona.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Controller\CEducacion.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Dto\dtoEducacion.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Entity\Usuario.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Entity\Educacion.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Service\UserDetailsImpl.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Repository\IPersonaRepository.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Repository\RExperiencia.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Dto\dtoProyectos.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Repository\REducacion.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Service\Sproyectos.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Repository\iUsuarioRepository.java
+F:\ARGENTINA PROGRAMA\Porfolio\descraga githud antes de modificar\backend-main\BACKrz\src\main\java\com\portfolio\rz\Security\Service\UsuarioService.java
